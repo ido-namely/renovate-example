@@ -1,0 +1,7 @@
+version: "3.4"
+services:
+  early-adaptor:
+    image: namely/protoc-all:1.46_0
+
+  late-adaptor:
+    image: namely/protoc-all:1.46_0
